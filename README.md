@@ -1,5 +1,12 @@
-# my-books
-My list of best IT books
+<div align="center">
+
+# aliases
+
+<img src="http://icons.iconarchive.com/icons/double-j-design/ravenna-3d/256/Books-icon.png" height="200px" width="200px">
+
+#### My list of best it books
+
+</div>
 
 ## Vim
 
