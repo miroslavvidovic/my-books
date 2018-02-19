@@ -1,6 +1,6 @@
 <div align="center">
 
-# aliases
+# my-books
 
 <img src="http://icons.iconarchive.com/icons/double-j-design/ravenna-3d/256/Books-icon.png" height="200px" width="200px">
 
